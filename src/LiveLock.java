@@ -1,4 +1,4 @@
-public class App {
+public class LiveLock {
     public static void main(String[] args) throws Exception {
         Customer customer=new Customer();
         Shipper shipper=new Shipper();
