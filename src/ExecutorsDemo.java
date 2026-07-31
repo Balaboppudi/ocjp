@@ -14,6 +14,7 @@ public class ExecutorsDemo {
         System.out.println("Helooooooooo");
         return 1;
     });
+    // future.can
     //  Object o= future.get();
      System.out.println(1+" is from Future Object");
      executor.shutdown();
