@@ -38,6 +38,8 @@ return String.format("<%s, \"%s\", %d, %s, %s>",
     10, Year.of(2018), Genre.JAZZ);
     // A fixed-size list of CDs.
   public static final List<CD> cdList = List.of(cd0, cd1, cd2, cd3, cd4);
+    public static final List<CD> cdList2 = List.of(cd0, cd4);
+
   // An array of CDs.
   public static final CD[] cdArray = {cd0, cd1, cd2, cd3, cd4};
     
